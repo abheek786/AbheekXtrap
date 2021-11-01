@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap);
+
+/* Navigation Bars */
+.nav-list {
+    list-style: none;
+}
+
+.nav-list li {
+    display: inline-block;
+    margin: 0 16px;
+    padding: 4px;
+}
+
+/* Navigation Bar Type I */
+.navshadow {
+    border: 2px solid;
+    background-color: #2a3132;
+}
+
+.navshadow-list a {
+    text-decoration: none;
+    color: #a8cfeb;
+    font-weight: bold;
+}
+
+/* Navigation Bar Type II */
+.navredclay {
+    border: 2px solid;
+    background-color: #a43820;
+}
+
+.navredclay-list a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Navigation Bar Type III */
+.navairforceblue {
+    border: 2px solid;
+    background-color: #00308f;
+}
+
+.navairforceblue-list a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: "Space Mono", monospace;
+}
+
+/* Navigation Bar Type IV */
+.navairforceblue {
+    border: 2px solid;
+    background-color: black;
+}
+
+.navairforceblue-list a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: "Space Mono", monospace;
+}
